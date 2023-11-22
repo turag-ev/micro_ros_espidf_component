@@ -1,0 +1,3 @@
+[submodule "extra_packages/micro_turag_msgs"]
+	path = extra_packages/micro_turag_msgs
+	url = git@github.com:turag-ev/micro_turag_msgs.git
